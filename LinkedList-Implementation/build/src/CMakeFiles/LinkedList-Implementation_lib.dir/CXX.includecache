@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shanika/Documents/Data Structures/Data_Structures_Assignment/LinkedList-Implementation/src/LinkedList.cpp
+LinkedList.h
+/home/shanika/Documents/Data Structures/Data_Structures_Assignment/LinkedList-Implementation/src/LinkedList.h
+iostream
+-
+
+/home/shanika/Documents/Data Structures/Data_Structures_Assignment/LinkedList-Implementation/src/LinkedList.h
+
+/home/shanika/Documents/Data Structures/Data_Structures_Assignment/LinkedList-Implementation/src/Main.cpp
+LinkedList.h
+/home/shanika/Documents/Data Structures/Data_Structures_Assignment/LinkedList-Implementation/src/LinkedList.h
+iostream
+-
+

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLinkedList-Implementation_lib.a  CMakeFiles/LinkedList-Implementation_lib.dir/LinkedList.cpp.o CMakeFiles/LinkedList-Implementation_lib.dir/Main.cpp.o
+/usr/bin/ranlib libLinkedList-Implementation_lib.a

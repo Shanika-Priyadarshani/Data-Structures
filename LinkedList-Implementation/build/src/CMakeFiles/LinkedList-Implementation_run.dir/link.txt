@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/LinkedList-Implementation_run.dir/LinkedList.cpp.o CMakeFiles/LinkedList-Implementation_run.dir/Main.cpp.o  -o LinkedList-Implementation_run 
