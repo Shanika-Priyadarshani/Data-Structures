@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLinkedList-TemplateClass_lib.a  CMakeFiles/LinkedList-TemplateClass_lib.dir/LinkedListTemplate.cpp.o CMakeFiles/LinkedList-TemplateClass_lib.dir/Main.cpp.o
+/usr/bin/ranlib libLinkedList-TemplateClass_lib.a

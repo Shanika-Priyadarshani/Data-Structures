@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/LinkedList-TemplateClass_run.dir/LinkedListTemplate.cpp.o CMakeFiles/LinkedList-TemplateClass_run.dir/Main.cpp.o  -o LinkedList-TemplateClass_run 
