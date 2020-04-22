@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/DynamicArray-TemplateClass_run.dir/DynamicArrayTemplate.cpp.o CMakeFiles/DynamicArray-TemplateClass_run.dir/Main.cpp.o  -o DynamicArray-TemplateClass_run 

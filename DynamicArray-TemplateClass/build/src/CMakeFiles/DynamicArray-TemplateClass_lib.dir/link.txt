@@ -1,0 +1,2 @@
+/usr/bin/ar qc libDynamicArray-TemplateClass_lib.a  CMakeFiles/DynamicArray-TemplateClass_lib.dir/DynamicArrayTemplate.cpp.o CMakeFiles/DynamicArray-TemplateClass_lib.dir/Main.cpp.o
+/usr/bin/ranlib libDynamicArray-TemplateClass_lib.a

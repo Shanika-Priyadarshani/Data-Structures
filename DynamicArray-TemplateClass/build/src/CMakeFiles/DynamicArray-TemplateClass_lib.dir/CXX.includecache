@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shanika/Documents/Data Structures/Data_Structures_Assignment/DynamicArray-TemplateClass/src/DynamicArrayTemplate.cpp
+iostream
+-
+DynamicArrayTemplate.h
+/home/shanika/Documents/Data Structures/Data_Structures_Assignment/DynamicArray-TemplateClass/src/DynamicArrayTemplate.h
+
+/home/shanika/Documents/Data Structures/Data_Structures_Assignment/DynamicArray-TemplateClass/src/DynamicArrayTemplate.h
+
+/home/shanika/Documents/Data Structures/Data_Structures_Assignment/DynamicArray-TemplateClass/src/Main.cpp
+DynamicArrayTemplate.h
+/home/shanika/Documents/Data Structures/Data_Structures_Assignment/DynamicArray-TemplateClass/src/DynamicArrayTemplate.h
+DynamicArrayTemplate.cpp
+/home/shanika/Documents/Data Structures/Data_Structures_Assignment/DynamicArray-TemplateClass/src/DynamicArrayTemplate.cpp
+iostream
+-
+

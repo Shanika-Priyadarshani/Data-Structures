@@ -1,0 +1,6 @@
+/home/shanika/Documents/Data Structures/Data_Structures_Assignment/DynamicArray-TemplateClass/build/CMakeFiles/rebuild_cache.dir
+/home/shanika/Documents/Data Structures/Data_Structures_Assignment/DynamicArray-TemplateClass/build/CMakeFiles/edit_cache.dir
+/home/shanika/Documents/Data Structures/Data_Structures_Assignment/DynamicArray-TemplateClass/build/src/CMakeFiles/edit_cache.dir
+/home/shanika/Documents/Data Structures/Data_Structures_Assignment/DynamicArray-TemplateClass/build/src/CMakeFiles/DynamicArray-TemplateClass_run.dir
+/home/shanika/Documents/Data Structures/Data_Structures_Assignment/DynamicArray-TemplateClass/build/src/CMakeFiles/rebuild_cache.dir
+/home/shanika/Documents/Data Structures/Data_Structures_Assignment/DynamicArray-TemplateClass/build/src/CMakeFiles/DynamicArray-TemplateClass_lib.dir
